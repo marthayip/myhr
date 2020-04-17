@@ -716,13 +716,13 @@ _::-webkit-full-page-media, _:future, :root .sec-content .doubleScroll-scroll-wr
 
 .my-account .password-req li{
 	display: inline-block;
-	width: 200px;
+	width: 220px;
 }
 
 .my-account .password-req li .status {
 	display: inline-block;
 	vertical-align: middle;
-	margin-right: 4px;
+	margin-right: 0px;
 }
 
 .my-account .password-req li .status {
